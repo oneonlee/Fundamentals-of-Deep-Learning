@@ -10,7 +10,7 @@
 ## 개발 환경
 
 - [NVIDIA NGC](https://www.nvidia.com/ko-kr/gpu-cloud/)
-- JupyterLab
+- [JupyterLab](/00_jupyterlab.ipynb)
 
 ## 목차
 
@@ -84,12 +84,15 @@ CNN : Convolutional Neural Networks (합성곱 신경망)
 - (1) [RNN(Recurrent Neural Network)](https://developers.google.com/machine-learning/glossary#recurrent-neural-network)에 사용할 시퀀스 데이터 준비
 - (2) 단어 예측을 수행할 모델 구축 및 트레이닝
 
-### 7. [신선한 과일과 썩은 과일 분류기](/07_assessment.ipynb)
+### 7. [신선한 과일과 썩은 과일 분류기](/07_assessment.ipynb) (Assessment)
+
+---
 
 ## Certificates
 
 <div align="center">
 
-[![Certificates](/images/Certificate.jpg)](https://courses.nvidia.com/certificates/825e75c11f3541fa9c196832ffa1db8d/)
+<a href="https://courses.nvidia.com/certificates/825e75c11f3541fa9c196832ffa1db8d/" target="_blank">
+<img width=75% alt="Certificates" src="/images/Certificate.jpg"></a>
 
 </div>
